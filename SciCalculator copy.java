@@ -1,5 +1,5 @@
 import java.util.Scanner; // I added a comment!
-import java.lang.Math; // I added another comment!
+import java.lang.Math; // I added another comment, wow!
 
 public class SciCalculator {
    public static void main(String args[]) {
